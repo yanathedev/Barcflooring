@@ -142,12 +142,12 @@
     z-index: 1;
 }
 
-.btn--active,
+/* .btn--active,
 .btn:hover,
 .btn:focus
     {
     background-color: #333;
-}
+} */
 
 .btn:nth-of-type(1) {
     left: 0;
