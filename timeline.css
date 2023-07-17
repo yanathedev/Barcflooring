@@ -1,4 +1,4 @@
-/* .timeline {
+.timeline {
     display: none;
     margin: 0 auto;
 }
@@ -38,10 +38,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-} */
+} 
 
 
-/* .image-1 {
+.image-1 {
     background-image: url(/images/timeline/1.webp);
 }
 
@@ -83,9 +83,9 @@
 
 .image-11 {
     background-image: url(/images/timeline/11.webp);
-} */
+} 
 
-/* .date {
+.date {
     display: block;
     margin-bottom: 8px;
     font-size: 18px;
@@ -140,16 +140,16 @@
     transition: 0.3s;
     appearance: none;
     z-index: 1;
-} */
+} 
 
-/* .btn--active,
+.btn--active,
 .btn:hover,
 .btn:focus
     {
     background-color: #333;
-} */
+} 
 
-/* .btn:nth-of-type(1) {
+.btn:nth-of-type(1) {
     left: 0;
 }
 
@@ -191,9 +191,9 @@
 
 .btn:nth-of-type(11) {
     left: 100%;
-} */
+}
 
-/* @media only screen and (min-width: 782px) {
+@media only screen and (min-width: 782px) {
     .timeline {
         display: flex;
         flex-direction: column;
@@ -205,4 +205,4 @@
     .list {
         grid-template-columns: repeat(1, 850px);
     }
-} */
+}
