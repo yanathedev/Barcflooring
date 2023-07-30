@@ -26,7 +26,7 @@
   // });
   // btns[0].click();
 
-});
+// });
 
 
 const timeline = document.querySelector(".timeline");
